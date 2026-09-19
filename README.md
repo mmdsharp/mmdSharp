@@ -33,9 +33,8 @@ A C# project focused on code-related utilities and tools.
 
 ## 📚 Currently Learning
 
-- Python
-- Artificial Intelligence / Machine Learning
-- Software Architecture
+- Blazor for modern .NET applications
+- Python for AI and Machine Learning
 
 ## 🎯 Goals
 
