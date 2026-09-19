@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**mmdsharp/mmdSharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C# / .NET Developer focused on backend systems and application development.
 
-Here are some ideas to get you started:
+I enjoy building real-world software projects and learning about software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### IdaCode
+A developer-focused platform for sharing programming ideas, problems and solutions.
+
+### CodeCalculator
+A C# project for code-related calculations and utilities.
+
+## 🛠 Tech Stack
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- SQL
+- Git
+
+## 📚 Currently Learning
+
+- Python
+- Artificial Intelligence
+- Software Architecture
