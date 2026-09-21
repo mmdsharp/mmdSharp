@@ -22,8 +22,10 @@ A C# project focused on code-related utilities and tools.
 
 ### .NET Ecosystem
 - .NET
-- ASP.NET Core
 - Entity Framework Core
+- ASP.NET Core
+- WPF
+- Windows Form Application
 
 ### Concepts & Tools
 - Object-Oriented Programming
